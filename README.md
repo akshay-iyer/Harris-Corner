@@ -4,4 +4,9 @@ This repository contains the implementation of finding Harris Corners as per A C
 
 To run the following code:
 1. Clone the repo
-2. Open a new terminal 
+2. Open a new terminal
+3. mkdir build
+4. cd build
+5. cmake ..
+6. make 
+7. ./harris
