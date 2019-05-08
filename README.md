@@ -33,8 +33,8 @@ To run the first option, do:
 
 ## Sample Results
 
-Displaying a sample result of the code. We can see that the corners of the cube are detected by the detector and highlighted in red.
-![alt text](https://github.com/akshay-iyer/Harris-Corner/blob/master/Harris2.png)
+Displaying a sample result of the code. We can see that the corners of the cube are detected by the detector and highlighted in red. Image taken from Shutterstock
+![alt text](https://github.com/akshay-iyer/Harris-Corner/blob/master/results/sample_output.png)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
